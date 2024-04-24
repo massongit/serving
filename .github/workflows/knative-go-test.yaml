@@ -14,4 +14,4 @@ on:
 
 jobs:
   test:
-    uses: knative/actions/.github/workflows/reusable-go-test.yaml@main
+    uses: massongit/actions/.github/workflows/reusable-go-test.yaml@massongit-patch-1
